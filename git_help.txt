@@ -16,6 +16,7 @@ Nu staat de repo op de pc\laptop
 *****************************************************************************************************
 
 git status
-git add Metrisch_schroefdraad.py
-git commit -m "1e commit"
-git push -u git_Metrisch_schroefdraad master
+git add Metrisch_schroefdraad.py				#add 1 file
+git add .										#add all files
+git commit -m "1e commit"						#-m Commentaar
+git push -u git_Metrisch_schroefdraad master	#-u Upstream
