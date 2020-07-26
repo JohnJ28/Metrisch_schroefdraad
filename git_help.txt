@@ -1,4 +1,21 @@
+Info over git en github voor mij zelf.
+
+*****************************************************************************************************
+Voorbeeld van aanmaken nieuw repo.
+
+Maak op github.com een nieuwe repo aan.
+Copy de url.
+In Windows PowerShell ga naar de map waar de repo moet komen.
+
+Commands in Windows PowerShell:
+	git init
+	git remote add git_Metrisch_schroefdraad https://github.com/JohnJ28/Metrisch_schroefdraad.git
+	git pull git_Metrisch_schroefdraad master
+
+Nu staat de repo op de pc\laptop
+*****************************************************************************************************
+
 git status
-git init
-git add '.\Metrisch schroefdraad\Metrisch_schroefdraad.py'
+git add Metrisch_schroefdraad.py
 git commit -m "1e commit"
+git push -u git_Metrisch_schroefdraad master
