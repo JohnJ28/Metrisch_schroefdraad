@@ -1,4 +1,4 @@
-Info over git en github voor mij zelf.
+Info over git en github voor mijzelf.
 
 *****************************************************************************************************
 Voorbeeld van aanmaken nieuw repo.

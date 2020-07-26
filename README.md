@@ -22,7 +22,7 @@ Include logo/demo screenshot etc.
 Ex. -
 
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
+- [Python](https://www.python.org/)
 
 ## Features
 What makes your project stand out?
