@@ -1,0 +1,4 @@
+git status
+git init
+git add '.\Metrisch schroefdraad\Metrisch_schroefdraad.py'
+git commit -m "1e commit"
