@@ -53,6 +53,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 #### Anything else that seems useful
 
 ## License
-A short snippet describing the license (MIT, Apache etc)
-
-MIT © [JohnJ28]()
+GNU General Public License v3.0
