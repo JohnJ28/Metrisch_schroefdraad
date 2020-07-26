@@ -5,7 +5,7 @@ print("\n"*5)
 print("Voer voor metrisch schroefdraad de gegevens in.")
 print()
 
-diameter = getInteger("Geef de diameter >")
+diameter = getInteger("Geef de diameter: ")
 spoed = getFloat( "Geef de spoed: " )
 
 d = diameter
