@@ -2,7 +2,7 @@
 Simple little program that provides information on Metric threads for CNC machining (in the Dutch language).
 
 ## Motivation
-I needed this tool in my workshop to quickly find information about threads instead of looking up in a table book or on the internet.
+I needed this tool in my workshop to quickly find information about threads instead of looking up in the Machinery's Handbook or on the internet.
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
@@ -32,10 +32,6 @@ Show what the library does as concisely as possible, developers should be able t
 
 ## Installation
 Provide step by step series of examples and explanations about how to get a development env running.
-
-## API Reference
-
-Depending on the size of the project, if it is small and simple enough the reference docs can be added to the README. For medium size to larger projects it is important to at least provide a link to where the API reference docs live.
 
 ## Tests
 Describe and show how to run the tests with code examples.
