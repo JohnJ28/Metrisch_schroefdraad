@@ -1,5 +1,5 @@
 ## Metrisch_schroefdraad
-Simple little program that provides information on Metric threads for CNC machining (in the Dutch language).
+Simple little program that provides information on ISO metric screw threads for CNC machining (in the Dutch language).
 
 ## Motivation
 I needed this tool in my workshop to quickly find information about threads instead of looking up in the Machinery's Handbook or on the internet.
