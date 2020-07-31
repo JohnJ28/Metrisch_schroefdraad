@@ -10,7 +10,12 @@ print ("Voer voor metrisch schroefdraad volgende gegevens in.")
 print()
 
 diameter = getInteger("Geef de diameter:> ")
-spoed = getFloat( "Geef de spoed:> " )
+while True:
+    spoed = getFloat( "Geef de spoed:> " )
+    if spoed < diameter/3:
+        break
+    print("Te grote spoed opgegeven probeer het nogmaals!")
+    
 
 d = diameter
 p = spoed
