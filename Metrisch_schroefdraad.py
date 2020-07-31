@@ -27,7 +27,7 @@ d3 = d-((H1+h_R)*2)     #Kern van moer
 D1 = d-(H1*2)           #Kern van Bout
 boor = d-p              #Boor diameter
 hoek = 60               #Tophoek
-doorsnede_volume = (pi/4)*pow(((d2+d3)/2),2)
+doorsnede_volume = (pi/4)*pow(((d2+d3)/2),2)    #spanningsdoorsnede
 
 print("\n"*2)
 print("****************************************")
